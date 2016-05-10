@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Testing
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
@@ -49,7 +49,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: BLA
+  name: gbd
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
