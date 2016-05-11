@@ -1,16 +1,13 @@
 # Site navigation links
 
+- title: Add Review
+  url: /add_review/
+
+- title: Reviews
+  url: /articles/
+
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/
+- title: Search Reviews
+  url: /search_reviews/
